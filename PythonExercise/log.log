@@ -1,0 +1,48 @@
+2025-10-31 10:31:56,358 - my_app - INFO - Application started.
+2025-10-31 10:31:56,359 - my_app - INFO - Application finished.
+2025-10-31 10:47:15,133 - my_app - INFO - Application started.
+2025-10-31 10:49:32,649 - my_app - INFO - Application started.
+2025-10-31 10:49:32,670 - my_app - INFO - Application finished.
+2025-10-31 11:00:58,061 - my_app - INFO - Application started.
+2025-10-31 11:00:58,061 - my_app - ERROR - Error: The file '../files/sales.csv' was not found.
+2025-10-31 11:00:58,061 - my_app - INFO - Application finished.
+2025-10-31 11:01:49,605 - my_app - INFO - Application started.
+2025-10-31 11:01:49,606 - my_app - ERROR - Error: The file '../source/sales.csv' was not found.
+2025-10-31 11:01:49,606 - my_app - INFO - Application finished.
+2025-10-31 11:02:54,986 - my_app - INFO - Application started.
+2025-10-31 11:02:54,989 - my_app - INFO - CSV file 'source/sales.csv' correctly read
+2025-10-31 11:02:54,991 - my_app - INFO - Application finished.
+2025-10-31 11:13:45,433 - my_app - INFO - Application started.
+2025-10-31 11:13:45,434 - my_app - INFO - CSV file 'source/sales.csv' correctly read
+2025-10-31 11:13:45,434 - my_app - ERROR - Unexpected error reading 'source/sales.csv': 'str' object has no attribute 'drop_duplicates'
+2025-10-31 11:13:45,434 - my_app - INFO - Application finished.
+2025-10-31 11:16:58,496 - my_app - INFO - Application started.
+2025-10-31 11:16:58,498 - my_app - INFO - CSV file 'source/sales.csv' correctly read
+2025-10-31 11:16:58,498 - my_app - ERROR - Unexpected error reading 'source/sales.csv': 'str' object has no attribute 'map'
+2025-10-31 11:16:58,498 - my_app - INFO - Application finished.
+2025-10-31 11:17:37,478 - my_app - INFO - Application started.
+2025-10-31 11:17:37,478 - my_app - INFO - CSV file 'source/sales.csv' correctly read
+2025-10-31 11:17:37,479 - my_app - ERROR - Unexpected error reading 'source/sales.csv': 'str' object has no attribute 'map'
+2025-10-31 11:17:37,479 - my_app - INFO - Application finished.
+2025-10-31 11:17:47,548 - my_app - INFO - Application started.
+2025-10-31 11:17:47,548 - my_app - INFO - CSV file 'source/sales.csv' correctly read
+2025-10-31 11:17:47,548 - my_app - ERROR - Unexpected error reading 'source/sales.csv': 'str' object has no attribute 'drop_duplicates'
+2025-10-31 11:17:47,548 - my_app - INFO - Application finished.
+2025-10-31 11:30:23,823 - my_app - INFO - Application started.
+2025-10-31 11:30:23,843 - my_app - INFO - Application finished.
+2025-10-31 11:41:01,779 - my_app - INFO - Application started.
+2025-10-31 11:41:01,802 - my_app - INFO - Application finished.
+2025-10-31 12:20:23,043 - my_app - INFO - Application started.
+2025-10-31 12:20:23,044 - my_app - INFO - Application finished.
+2025-10-31 12:29:28,088 - my_app - INFO - Application started.
+2025-10-31 12:29:28,088 - my_app - INFO - Application finished.
+2025-10-31 12:30:18,672 - my_app - INFO - Application started.
+2025-10-31 12:30:18,673 - my_app - INFO - Application finished.
+2025-10-31 12:32:43,112 - my_app - INFO - Application started.
+2025-10-31 12:32:43,113 - my_app - INFO - Application finished.
+2025-10-31 12:35:29,326 - my_app - INFO - Application started.
+2025-10-31 12:37:59,401 - my_app - INFO - Application started.
+2025-10-31 12:40:54,921 - my_app - INFO - Application started.
+2025-10-31 12:40:54,962 - my_app - INFO - Application finished.
+2025-10-31 12:54:32,366 - my_app - INFO - Application started.
+2025-10-31 12:54:32,538 - my_app - INFO - Application finished.
